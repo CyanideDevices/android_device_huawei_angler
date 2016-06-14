@@ -2,13 +2,13 @@
  {
    "remote":      "github",
    "repository":  "CyanideDevices/android_kernel_huawei_angler",
-   "target_path": "android/kernel/huawei/angler",
+   "target_path": "kernel/huawei/angler",
    "revision":    "M"
  },
  {
    "remote":      "github",
    "repository":  "CyanideDevices/android_vendor_huawei_angler",
-   "target_path": "android/vendor/huawei/angler",
+   "target_path": "vendor/huawei/angler",
    "revision":    "M"
  }
 ]
